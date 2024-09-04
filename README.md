@@ -38,7 +38,7 @@ We developed a Streamlit app to provide an interactive interface for users to in
 
 ## Results
 The model's performance was evaluated, and the results are as follows:
-- Mean Absolute Error: [Your MAE]
+- Mean Absolute Error: 0.1583724829037032
 - R2_Score: >= 86.56
 
 ## Installation
@@ -50,8 +50,6 @@ To run this project, you need to have Python installed along with the following 
 
 You can install the required libraries using:
 ```bash
-pip install pandas numpy scikit-learn streamlit
-
-
+pip install pandas numpy scikit-learn streamlit'''
 
 Big credit to CampusX with there video to understand the project in depth 
